@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# PsychoPy participant data and generated experiment files
+/data/
+*.psydat
+*.log
+
+# macOS and editor files
+.DS_Store
+.vscode/
