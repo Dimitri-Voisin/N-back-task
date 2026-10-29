@@ -4,6 +4,18 @@ A configurable digit N-back cognitive task implemented in Python with PsychoPy.
 It presents a short practice block followed by the main task and records trial-level
 responses and reaction times.
 
+## N-back Digit Task
+
+This repository contains a custom implementation of a digit-based N-back task,
+developed for experimental research on working memory. The task is based on the
+N-back paradigm described in the published literature by Kirchner (1958).
+
+**Reference:**
+
+Kirchner, W. K. (1958). Age differences in short-term retention of rapidly changing
+information. *Journal of Experimental Psychology, 55*(4), 352–358.
+https://doi.org/10.1037/h0043688
+
 ## Requirements
 
 - Python 3
